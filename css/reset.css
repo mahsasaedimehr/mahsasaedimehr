@@ -1,0 +1,33 @@
+.background-img{
+    background-image: url(../img/aranprime-5pQZUa5W_0I-unsplash\ 1.png);
+    height: 90rem;
+    background-repeat: no-repeat;
+}
+
+.icon{
+    background-color: black;
+    border-radius: 0.7rem;
+    height: 4.3rem;
+    width: 4.7rem;
+}
+
+.border-p{
+    border-radius: 4.8rem;
+    background-color: #20DC49;
+    height: 6rem;
+    width: 24rem;
+}
+
+.bg-img{
+    background-image: url(../img/Rectangle\ 10.png);
+    height: 15rem;
+    background-repeat: no-repeat;
+}
+
+.color{
+    color: white;
+}
+
+.green{
+    color: #20DC49;
+}
