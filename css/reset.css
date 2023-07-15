@@ -31,3 +31,9 @@
 .green{
     color: #20DC49;
 }
+
+.line{
+    width:13rem ;
+    height:.1rem ;
+     background-color: #DBDBDB;
+}
