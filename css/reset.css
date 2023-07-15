@@ -1,31 +1,39 @@
 .background-img{
     background-image: url(../img/aranprime-5pQZUa5W_0I-unsplash\ 1.png);
     height: 90rem;
+    width: 40rem;
     background-repeat: no-repeat;
 }
 
 .icon{
     background-color: black;
     border-radius: 0.7rem;
-    height: 4.3rem;
-    width: 4.7rem;
+    height: 2.5rem;
+    width: 2.7rem;
 }
 
 .border-p{
     border-radius: 4.8rem;
     background-color: #20DC49;
-    height: 6rem;
-    width: 24rem;
+    height: 4rem;
+    width: 17rem;
+}
+
+.padding-green-fram{
+    padding: 15rem 30rem 0 0;
 }
 
 .bg-img{
     background-image: url(../img/Rectangle\ 10.png);
     height: 15rem;
+    width: 24rem;
     background-repeat: no-repeat;
 }
 
 .color{
     color: white;
+    height: auto;
+    width: 15rem;
 }
 
 .green{
@@ -36,4 +44,54 @@
     width:13rem ;
     height:.1rem ;
      background-color: #DBDBDB;
+}
+
+.p{
+    padding: .5rem;
+}
+
+.m{
+    margin-bottom: .5rem;
+}
+
+.bg-gray{
+    background-color: #F0F2F5;
+}
+
+.size{
+    height: 56.5rem;
+    width: 40rem;
+}
+
+.col-6-p{
+    flex: 0 0 auto;
+    width: 40%;
+}
+
+.button{
+    background-color: white;
+    height: 4.4rem;
+    width: 12rem;
+    
+}
+
+.bt{
+    border-color: #20DC49;
+}
+
+.cont{
+    width: 40rem;
+    height: 7rem;
+}
+
+.button-green{
+    background-color: #20DC49;
+    color: black;
+    padding: 1rem 8rem;
+    width: 25rem;
+    height: 4rem;
+}
+
+.clr{
+    color: #7E7E7E;
 }
